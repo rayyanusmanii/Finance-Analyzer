@@ -2,7 +2,7 @@
 
 **Finance Analyzer** is a command-line data analysis tool that transforms any CSV of financial transactions into a clear spending breakdown. The project combines Pandas-powered data cleaning with Google Gemini AI to automatically categorize transactions and Matplotlib to visualize spending patterns across categories.
 
-![Spending Report](assets/report.png)
+![Spending Report](assets/reports.png)
 ![Chart](assets/chart.png)
 
 ---
